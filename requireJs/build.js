@@ -1,0 +1,10 @@
+({
+	appDir:'./',
+	baseUrl:'js',
+	dir:'../2',
+	optimizeCss:"none",
+	modules:[
+		{name:"index"},
+		{name:"news"}
+	]
+})
